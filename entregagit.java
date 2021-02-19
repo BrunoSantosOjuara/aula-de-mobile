@@ -11,10 +11,11 @@ public class EntregaGit{
 	{
 		String nome = JOptionPane.ShowInputDialog("Qual o seu nome?");
 		JOptionPane.showMessageDialog(null, String.format("Bem Vindo, %s", nome));
-//outra funcionalidade
+//outra funcionalidade.
 //mais uma 
-//outra
+//outragit ---
 //mais uma agora.
+//
 
 			
 			}
