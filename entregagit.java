@@ -14,7 +14,7 @@ public class EntregaGit{
 //outra funcionalidade
 //mais uma 
 //outra
-//mais uma agora
+//mais uma agora.
 
 			
 			}
